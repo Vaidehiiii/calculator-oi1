@@ -1,11 +1,12 @@
 Calculator Web App Project
 
-Description
+Description:
 
 The Calculator Web App project is a web-based application designed to provide users with a convenient and intuitive tool for performing basic mathematical calculations. This project aims to create a user-friendly interface that enables users to perform arithmetic operations quickly and accurately.
 
 
-Features
+Features:
+
 Basic Arithmetic Operations: The calculator supports fundamental arithmetic operations such as addition, subtraction, multiplication, and division. Users can enter numerical values and select the desired operation using the intuitive user interface.
 
 Responsive Design: The web app is built with a responsive design to ensure compatibility with a wide range of devices, including desktops, tablets, and smartphones. The layout adapts to different screen sizes, providing a seamless user experience across devices.
@@ -19,7 +20,8 @@ Keyboard Support: Users can operate the calculator using both mouse input and ke
 Memory Functions (Optional): An optional feature for storing and recalling values from memory can be added to the calculator. This allows users to perform more complex calculations that involve intermediate results.
 
 
-Technologies Used
+Technologies Used:
+
 HTML5: The structure and layout of the calculator web app are built using HTML5, ensuring compatibility with modern browsers.
 
 CSS3: CSS3 is used to style the calculator, providing an attractive and visually appealing user interface.
